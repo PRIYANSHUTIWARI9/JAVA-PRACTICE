@@ -1,6 +1,6 @@
 public class reverse {
     public static void main(String[] args) {
-        String str = "Dream big";
+        String str = "I Love My India";
 
         int len = str.length();
         String revstr="";
