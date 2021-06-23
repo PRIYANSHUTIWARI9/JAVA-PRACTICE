@@ -11,8 +11,7 @@ public class DAY5_question2 {
         {
             System.out.print("*");
         }
-        System.out.println();
-        
+        System.out.println();     
     }
    }
     
