@@ -1,5 +1,6 @@
 package searching;
 
+// this question is solved by using binarySearch methods
 import java.util.Arrays;
 
 public class binary_search1 {
